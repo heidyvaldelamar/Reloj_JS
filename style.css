@@ -1,12 +1,13 @@
-body{
+body {
     margin: 0;
-    width: 100vh;
-    height: 100vh;
+    width: 100%;
+    height: 100%;
     display: grid;
     place-items: center;
     overflow: hidden;
-    background:url(fondo.png) ;
-    background-size: cover; 
+    background: url('fondo.png');
+    background-size: cover;
+    background-position: center;
 }
 
 .title{
